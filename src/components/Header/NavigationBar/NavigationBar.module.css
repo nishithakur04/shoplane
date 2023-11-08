@@ -1,0 +1,17 @@
+.cartImg {
+  width: 25px;
+}
+.categoryBar {
+  padding-left: 6%;
+  padding-right: 6%;
+}
+.logoContainer {
+  margin-right: 5%;
+}
+.btnContainer {
+  display: flex;
+  gap: 10px;
+}
+.cartTitle {
+  padding: 5px;
+}

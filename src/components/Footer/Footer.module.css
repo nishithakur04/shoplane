@@ -1,0 +1,12 @@
+.footerContainer {
+  height: 100px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footerCopyright {
+  color: white;
+  font-weight: 300;
+  font-size: 1.25rem;
+}

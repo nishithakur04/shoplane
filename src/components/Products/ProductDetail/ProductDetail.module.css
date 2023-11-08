@@ -1,0 +1,67 @@
+.banner {
+  height: 5rem;
+  background-color: rgb(217, 215, 215);
+}
+.bannerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+.bannerContainer .bannerTitle {
+  font-weight: bold;
+}
+.bannerContainer .bannerPrice {
+  font-weight: bold;
+}
+.bannerImg img {
+  width: 3rem;
+}
+.productDetailContainer {
+  display: flex;
+  flex-direction: row;
+  padding: 5%;
+}
+.productDetailContainer .imgSec {
+  width: 50%;
+}
+.productDetailContainer .imgSec img {
+  width: 300px;
+}
+.productDetailContainer .descSec {
+  width: 50%;
+}
+.productDetailContainer .descSec .descPrice {
+  padding: 20px 0;
+}
+/* .img-sec {
+  width: 50%;
+}
+.desc-sec {
+  width: 50%;
+}
+
+.img-sec-img {
+  width: 50%;
+}
+
+
+.productDetail-banner-div {
+  display: flex;
+  font-size: 25px;
+}
+.prodDetail-desc-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.prodDetail-desc-div {
+  font-size: large;
+}
+.prodDetail-Title-div {
+  font-size: 30px;
+  font-weight: bold;
+} */

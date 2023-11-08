@@ -1,0 +1,19 @@
+.bannerContainer {
+  height: 200px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bannerTaglineContainer h6 {
+  color: #747478;
+  font-weight: 400;
+  font-size: 1.25rem;
+}
+
+.bannerTaglineContainer h3 {
+  color: white;
+  font-weight: bolder;
+  font-size: 3.5rem;
+}

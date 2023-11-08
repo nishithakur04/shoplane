@@ -1,0 +1,47 @@
+.ordersContainers {
+  display: flex;
+  flex-direction: column;
+  border: #afafb1;
+  width: 100%;
+}
+.ordersContainers .orderItem {
+  display: flex;
+  flex-direction: row;
+}
+.ordersContainers .orderImg {
+  width: 200px;
+  padding: 20px;
+}
+.ordersContainers .orderDesc {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.ordersContainers .orderDesc .orderDescTitle {
+  color: #747478;
+  width: 70%;
+}
+.ordersContainers .orderDesc .orderPrice {
+  padding-top: 0;
+  margin-left: auto;
+}
+.orderDescContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.orderQuantitySection {
+  padding-left: 20px;
+}
+.grandTotalContainer div {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-bottom: 50px;
+}
+.grandTotalContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

@@ -1,0 +1,27 @@
+.cardImg {
+  width: 75% !important;
+  height: 250px;
+  margin: 10px;
+  overflow-clip-margin: content-box;
+  overflow: clip;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+.cardItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 3%;
+}
+.cardProduct {
+  width: 300px;
+  flex: 0 0 calc(25% - 10px);
+  margin-bottom: 30px;
+  border: 1px solid rgb(111, 111, 111);
+  text-align: center;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+.productTitle {
+  cursor: pointer;
+}

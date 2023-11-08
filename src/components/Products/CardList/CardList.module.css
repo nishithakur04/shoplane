@@ -1,0 +1,11 @@
+.cardSection {
+  padding: 0;
+}
+.cardContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 3% 3%;
+  margin-left: 0;
+  justify-content: space-between;
+}

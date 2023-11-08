@@ -1,0 +1,9 @@
+.orderConfirmationContainer {
+  padding: 40px 40px;
+  margin-top: 80px;
+  border-radius: 10px;
+  border: 2px;
+  border-style: groove;
+  border-color: rgb(174, 173, 173);
+  box-shadow: 10px 5px 8px #cbc7c7;
+}
